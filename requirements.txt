@@ -1,0 +1,4 @@
+Flask
+joblib
+boto3
+requests
